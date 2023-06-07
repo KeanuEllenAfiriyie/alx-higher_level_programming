@@ -2,8 +2,7 @@
 
 /**
  * check_cycle - Checks if a singly linked list has a cycle in it.
- * @list: pointer to the list
- * Return: 0 if there is not a loop and 1 if there is.
+ 
  */
 int check_cycle(listint_t *list)
 {
